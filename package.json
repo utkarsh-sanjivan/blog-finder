@@ -2,7 +2,7 @@
   "name": "github_repo_issues",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://utkarsh-sanjivan.github.io/Github_Repository_Issues/",
+  "homepage": "https://utkarsh-sanjivan.github.io/blog-finder/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,12 +14,10 @@
     "moment": "^2.27.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-markdown-github": "^3.3.1",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
     "react-router-redux": "^5.0.0-alpha.9",
     "react-scripts": "3.4.1",
-    "react-test-renderer": "^16.13.1",
     "redux": "^4.0.5",
     "redux-saga": "^1.1.3"
   },
