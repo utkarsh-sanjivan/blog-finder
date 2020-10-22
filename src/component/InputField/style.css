@@ -1,0 +1,10 @@
+.issues-search-field {
+    width: 600px;
+    margin-bottom: 5px;
+}
+
+@media only screen and (max-width: 700px) {
+    .issues-search-field {
+        width: 100%;
+    }
+}

@@ -1,0 +1,43 @@
+.post-detail-container {
+    padding: 20px 50px;
+}
+
+.comment-title {
+    width: 90%;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 48px;
+    color: #020202;
+}
+
+.comment-delete-button {
+    width: 10%;
+    height: 48px;
+}
+
+.comment-body {
+    margin: 10px 0;
+}
+
+.comment-container {
+    border: 1px solid #e8d8d8;
+    margin: 10px;
+    padding: 10px;
+}
+
+.comment-name {
+    font-weight: 600;
+}
+
+.comment-email {
+    font-size: 12px;
+}
+
+.comment-body {
+
+}
+
+.show-more-link {
+    color: #2c90f7;
+    cursor: pointer;
+}
